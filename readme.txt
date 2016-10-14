@@ -5,3 +5,4 @@ it`s me, tzy!
 hihihi
 Git has a mutable index called stage.
 add haha
+add hehe
